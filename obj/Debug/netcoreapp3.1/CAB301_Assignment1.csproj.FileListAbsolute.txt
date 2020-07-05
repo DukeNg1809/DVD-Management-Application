@@ -1,0 +1,12 @@
+/Users/DucNguyen 1/Projects/CAB301_Assignment1/bin/Debug/netcoreapp3.1/CAB301_Assignment1.deps.json
+/Users/DucNguyen 1/Projects/CAB301_Assignment1/bin/Debug/netcoreapp3.1/CAB301_Assignment1.runtimeconfig.json
+/Users/DucNguyen 1/Projects/CAB301_Assignment1/bin/Debug/netcoreapp3.1/CAB301_Assignment1.runtimeconfig.dev.json
+/Users/DucNguyen 1/Projects/CAB301_Assignment1/bin/Debug/netcoreapp3.1/CAB301_Assignment1.dll
+/Users/DucNguyen 1/Projects/CAB301_Assignment1/bin/Debug/netcoreapp3.1/CAB301_Assignment1.pdb
+/Users/DucNguyen 1/Projects/CAB301_Assignment1/obj/Debug/netcoreapp3.1/CAB301_Assignment1.csprojAssemblyReference.cache
+/Users/DucNguyen 1/Projects/CAB301_Assignment1/obj/Debug/netcoreapp3.1/CAB301_Assignment1.csproj.CoreCompileInputs.cache
+/Users/DucNguyen 1/Projects/CAB301_Assignment1/obj/Debug/netcoreapp3.1/CAB301_Assignment1.AssemblyInfoInputs.cache
+/Users/DucNguyen 1/Projects/CAB301_Assignment1/obj/Debug/netcoreapp3.1/CAB301_Assignment1.AssemblyInfo.cs
+/Users/DucNguyen 1/Projects/CAB301_Assignment1/obj/Debug/netcoreapp3.1/CAB301_Assignment1.dll
+/Users/DucNguyen 1/Projects/CAB301_Assignment1/obj/Debug/netcoreapp3.1/CAB301_Assignment1.pdb
+/Users/DucNguyen 1/Projects/CAB301_Assignment1/obj/Debug/netcoreapp3.1/CAB301_Assignment1.genruntimeconfig.cache
